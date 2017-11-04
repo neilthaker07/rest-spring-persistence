@@ -1,0 +1,365 @@
+2017-10-31 18:17:55,993 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml
+2017-10-31 18:17:56,978 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:17:59,118 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernaterest/src/main/java
+2017-10-31 18:17:59,121 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernaterest/src/test/java
+2017-10-31 18:17:59,181 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:17:59,980 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-10-31 18:18:01,194 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:18:01,439 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:18:01,439 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:18:01,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:18:01,443 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:52:44,243 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:52:44,353 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:52:44,354 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:52:44,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:52:44,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:53:40,106 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:53:40,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:53:40,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:53:40,339 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:53:40,339 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:53:41,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:53:41,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:53:41,734 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:53:41,734 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:54:10,073 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 18:54:10,202 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:54:10,202 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:54:10,204 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:54:10,204 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:54:46,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:54:46,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:54:46,918 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:54:46,918 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:55:11,271 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:11,271 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:55:11,282 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:11,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:55:20,446 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:20,447 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:55:20,452 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:20,452 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:55:45,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:45,540 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:55:45,545 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:55:45,546 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:56:34,652 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:34,653 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:56:34,655 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:34,655 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:56:38,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:38,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:56:38,482 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:38,483 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:56:41,659 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:41,660 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:56:41,661 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:41,662 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:56:51,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:51,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:56:51,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:51,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:56:56,248 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:56,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:56:56,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:56:56,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:57:06,875 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:06,875 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:57:06,876 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:06,877 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:57:16,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:16,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:57:16,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:16,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:57:17,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:17,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:57:17,220 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:17,221 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:57:54,371 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:54,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:57:54,373 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:57:54,373 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:58:05,148 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:58:05,148 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:58:05,149 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:58:05,149 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:58:49,191 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:58:49,191 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:58:49,197 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:58:49,204 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:16,391 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:16,391 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:16,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:16,394 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:32,338 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:32,338 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:32,340 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:32,340 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:33,526 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:33,527 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:33,528 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:33,530 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:36,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:36,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:36,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:36,539 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:39,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:39,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:39,135 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:39,135 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:47,208 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:47,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:47,210 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:47,210 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 18:59:57,138 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:57,138 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 18:59:57,139 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 18:59:57,139 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:00:08,254 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:08,254 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:00:08,256 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:08,256 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:00:27,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:27,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:00:27,775 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:27,775 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:00:57,687 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:57,689 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:00:57,691 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:00:57,691 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:02:13,137 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:02:13,137 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:02:13,138 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:02:13,138 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:02:24,243 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:02:24,243 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:02:24,244 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:02:24,245 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:03:49,890 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:03:49,890 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:03:49,892 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:03:49,892 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:08:47,462 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:08:47,462 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:08:47,463 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:08:47,464 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:13:28,905 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:13:28,905 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:13:28,907 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:13:28,907 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:26:23,409 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-10-31 19:26:24,150 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.6.RELEASE/spring-boot-starter-web-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,186 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.6.RELEASE/spring-boot-starter-web-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,207 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.5.6.RELEASE/spring-boot-starters-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,229 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.5.6.RELEASE/spring-boot-starters-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,270 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.5.6.RELEASE/spring-boot-parent-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,451 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.5.6.RELEASE/spring-boot-parent-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,533 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,628 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom
+2017-10-31 19:26:24,674 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.9/jackson-bom-2.8.9.pom
+2017-10-31 19:26:24,720 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.9/jackson-bom-2.8.9.pom
+2017-10-31 19:26:24,806 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2017-10-31 19:26:24,840 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2017-10-31 19:26:24,906 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.10.RELEASE/spring-framework-bom-4.3.10.RELEASE.pom
+2017-10-31 19:26:24,931 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.10.RELEASE/spring-framework-bom-4.3.10.RELEASE.pom
+2017-10-31 19:26:24,989 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR6/spring-data-releasetrain-Ingalls-SR6.pom
+2017-10-31 19:26:25,024 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR6/spring-data-releasetrain-Ingalls-SR6.pom
+2017-10-31 19:26:25,048 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.6.RELEASE/spring-data-build-1.9.6.RELEASE.pom
+2017-10-31 19:26:25,069 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.6.RELEASE/spring-data-build-1.9.6.RELEASE.pom
+2017-10-31 19:26:25,088 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.11.RELEASE/spring-integration-bom-4.3.11.RELEASE.pom
+2017-10-31 19:26:25,106 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.11.RELEASE/spring-integration-bom-4.3.11.RELEASE.pom
+2017-10-31 19:26:25,118 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.2.3.RELEASE/spring-security-bom-4.2.3.RELEASE.pom
+2017-10-31 19:26:25,141 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.2.3.RELEASE/spring-security-bom-4.2.3.RELEASE.pom
+2017-10-31 19:26:25,161 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.6.RELEASE/spring-boot-starter-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,188 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.6.RELEASE/spring-boot-starter-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,213 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,251 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,287 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,352 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,397 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.6.RELEASE/spring-boot-starter-logging-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,458 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.6.RELEASE/spring-boot-starter-logging-1.5.6.RELEASE.pom
+2017-10-31 19:26:25,563 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom
+2017-10-31 19:26:25,624 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom
+2017-10-31 19:26:25,640 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.11/logback-parent-1.1.11.pom
+2017-10-31 19:26:25,835 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.11/logback-parent-1.1.11.pom
+2017-10-31 19:26:25,890 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.pom
+2017-10-31 19:26:26,108 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.pom
+2017-10-31 19:26:26,155 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.pom
+2017-10-31 19:26:26,258 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.pom
+2017-10-31 19:26:26,287 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.22/slf4j-parent-1.7.22.pom
+2017-10-31 19:26:26,365 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.22/slf4j-parent-1.7.22.pom
+2017-10-31 19:26:26,472 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom
+2017-10-31 19:26:26,495 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom
+2017-10-31 19:26:26,509 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2017-10-31 19:26:26,560 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+2017-10-31 19:26:26,598 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2017-10-31 19:26:26,671 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+2017-10-31 19:26:26,724 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.pom
+2017-10-31 19:26:26,752 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.pom
+2017-10-31 19:26:26,776 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.pom
+2017-10-31 19:26:26,799 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.pom
+2017-10-31 19:26:26,901 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom
+2017-10-31 19:26:26,985 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom
+2017-10-31 19:26:27,011 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.6.RELEASE/spring-boot-starter-tomcat-1.5.6.RELEASE.pom
+2017-10-31 19:26:27,028 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.6.RELEASE/spring-boot-starter-tomcat-1.5.6.RELEASE.pom
+2017-10-31 19:26:27,074 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.pom
+2017-10-31 19:26:27,093 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.pom
+2017-10-31 19:26:27,109 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.16/tomcat-embed-el-8.5.16.pom
+2017-10-31 19:26:27,128 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.16/tomcat-embed-el-8.5.16.pom
+2017-10-31 19:26:27,156 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.16/tomcat-embed-websocket-8.5.16.pom
+2017-10-31 19:26:27,219 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.16/tomcat-embed-websocket-8.5.16.pom
+2017-10-31 19:26:27,237 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final.pom
+2017-10-31 19:26:27,257 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final.pom
+2017-10-31 19:26:27,278 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.3.5.Final/hibernate-validator-parent-5.3.5.Final.pom
+2017-10-31 19:26:27,312 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.3.5.Final/hibernate-validator-parent-5.3.5.Final.pom
+2017-10-31 19:26:27,332 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom
+2017-10-31 19:26:27,358 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom
+2017-10-31 19:26:27,372 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom
+2017-10-31 19:26:27,393 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom
+2017-10-31 19:26:27,493 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2017-10-31 19:26:27,513 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2017-10-31 19:26:27,553 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.pom
+2017-10-31 19:26:27,664 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.pom
+2017-10-31 19:26:27,726 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.pom
+2017-10-31 19:26:27,754 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.pom
+2017-10-31 19:26:27,810 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.pom
+2017-10-31 19:26:27,850 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.pom
+2017-10-31 19:26:27,921 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.pom
+2017-10-31 19:26:27,976 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.pom
+2017-10-31 19:26:28,005 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.6.RELEASE/spring-boot-starter-web-1.5.6.RELEASE.jar
+2017-10-31 19:26:28,030 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.6.RELEASE/spring-boot-starter-web-1.5.6.RELEASE.jar
+2017-10-31 19:26:28,043 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.6.RELEASE/spring-boot-starter-1.5.6.RELEASE.jar
+2017-10-31 19:26:28,062 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.6.RELEASE/spring-boot-starter-1.5.6.RELEASE.jar
+2017-10-31 19:26:28,231 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE.jar
+2017-10-31 19:26:30,830 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE.jar
+2017-10-31 19:26:30,894 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar
+2017-10-31 19:26:33,721 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar
+2017-10-31 19:26:33,752 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.6.RELEASE/spring-boot-starter-logging-1.5.6.RELEASE.jar
+2017-10-31 19:26:33,798 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.6.RELEASE/spring-boot-starter-logging-1.5.6.RELEASE.jar
+2017-10-31 19:26:33,884 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar
+2017-10-31 19:26:34,695 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar
+2017-10-31 19:26:34,731 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar
+2017-10-31 19:26:36,308 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar
+2017-10-31 19:26:36,326 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar
+2017-10-31 19:26:36,418 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar
+2017-10-31 19:26:36,449 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar
+2017-10-31 19:26:36,474 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar
+2017-10-31 19:26:36,489 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar
+2017-10-31 19:26:36,644 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar
+2017-10-31 19:26:36,692 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar
+2017-10-31 19:26:36,725 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar
+2017-10-31 19:26:36,789 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar
+2017-10-31 19:26:37,230 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar
+2017-10-31 19:26:37,244 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.6.RELEASE/spring-boot-starter-tomcat-1.5.6.RELEASE.jar
+2017-10-31 19:26:37,271 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.6.RELEASE/spring-boot-starter-tomcat-1.5.6.RELEASE.jar
+2017-10-31 19:26:37,371 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar
+2017-10-31 19:26:42,328 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar
+2017-10-31 19:26:42,528 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.16/tomcat-embed-el-8.5.16.jar
+2017-10-31 19:26:42,836 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.16/tomcat-embed-el-8.5.16.jar
+2017-10-31 19:26:43,058 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.16/tomcat-embed-websocket-8.5.16.jar
+2017-10-31 19:26:43,425 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.16/tomcat-embed-websocket-8.5.16.jar
+2017-10-31 19:26:43,662 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final.jar
+2017-10-31 19:26:44,341 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final.jar
+2017-10-31 19:26:44,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2017-10-31 19:26:44,440 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2017-10-31 19:26:44,461 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.jar
+2017-10-31 19:26:44,541 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.jar
+2017-10-31 19:26:44,552 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.jar
+2017-10-31 19:26:45,654 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.jar
+2017-10-31 19:26:45,666 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.jar
+2017-10-31 19:26:46,254 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.jar
+2017-10-31 19:26:46,276 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar
+2017-10-31 19:26:47,533 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar
+2017-10-31 19:26:51,368 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:51,369 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:26:51,370 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:51,370 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:26:52,842 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:52,842 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:26:52,843 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:52,843 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:26:55,008 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:55,009 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:26:55,010 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:55,010 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:26:57,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:57,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:26:57,134 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:26:57,134 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:27:13,700 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:27:13,700 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:27:13,702 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:27:13,702 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:27:52,064 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:27:52,064 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:27:52,065 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:27:52,066 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:28:19,588 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:28:19,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:28:19,591 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:28:19,592 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:29:31,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:31,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:29:31,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:31,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:29:37,998 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:37,998 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:29:37,999 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:38,000 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:29:50,696 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:50,696 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:29:50,697 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:50,697 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:29:54,642 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:54,642 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:29:54,650 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:29:54,650 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:30:20,427 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:20,427 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:30:20,428 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:20,428 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:30:22,005 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:22,005 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:30:22,010 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:22,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:30:33,031 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:33,031 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:30:33,033 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:33,033 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:30:42,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:42,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:30:42,874 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:30:42,874 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:31:19,613 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:31:19,613 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:31:19,615 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:31:19,615 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:34:37,985 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:34:37,985 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:34:37,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:34:37,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:36:07,357 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:07,357 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:36:07,358 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:07,358 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:36:15,262 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:15,262 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:36:15,264 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:15,264 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:36:20,647 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:20,648 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:36:20,649 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:20,649 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:36:27,581 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:27,582 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:36:27,583 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:36:27,583 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:40:01,425 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:40:01,425 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:40:01,426 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:40:01,426 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-10-31 19:40:08,877 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:40:08,877 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-10-31 19:40:08,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 19:40:08,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources

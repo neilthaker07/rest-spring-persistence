@@ -1,0 +1,13 @@
+package sample.hibernaterest;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class PlayerController {
+
+	public void insertPlayer()
+    {
+    	
+    }
+	
+}

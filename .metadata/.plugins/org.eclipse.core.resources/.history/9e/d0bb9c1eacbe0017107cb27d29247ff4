@@ -1,0 +1,24 @@
+package sample.hibernaterest;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("beans.xml");
+        Player playerInfo = (Player) ctx.getBean("player");
+        System.out.println(playerInfo.getName());
+        ctx.close();
+    }
+    
+    
+    public void insertPlayer()
+    {
+    	
+    }
+}
