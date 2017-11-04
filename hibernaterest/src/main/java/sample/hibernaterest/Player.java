@@ -1,7 +1,17 @@
 package sample.hibernaterest;
 
 public class Player {
-
+	
+	public Player()
+	{
+		
+	}
+	public Player(String name, int no)
+	{
+		this.name = name;
+		this.no = no;
+	}
+	
 	private String name;
 	private int no;
 	

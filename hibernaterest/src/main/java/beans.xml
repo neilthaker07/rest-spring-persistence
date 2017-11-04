@@ -14,10 +14,6 @@
 	     http://www.springframework.org/schema/aop/spring-aop-4.0.xsd
 	   ">
 
-    
-    <bean id="player" class="sample.hibernaterest.Player">
-    	<property name="name" value="alice"/>
-    	<property name="no" value="55"/>
-    </bean>
+  
 
 </beans>

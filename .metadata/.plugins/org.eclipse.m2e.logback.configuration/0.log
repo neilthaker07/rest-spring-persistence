@@ -363,3 +363,288 @@
 2017-10-31 19:40:08,877 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
 2017-10-31 19:40:08,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-10-31 19:40:08,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:19:27,918 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:19:27,923 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:19:27,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:19:27,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:19:42,652 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:19:42,653 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:19:42,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:19:42,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:20:12,986 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:20:12,986 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:20:12,990 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:20:12,990 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:20:33,647 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:20:33,647 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:20:33,648 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:20:33,649 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:40:02,261 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:02,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:40:02,275 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:02,275 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:40:10,561 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:10,561 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:40:10,564 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:10,564 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:40:36,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:36,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:40:36,668 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:36,668 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:40:44,745 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:44,745 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:40:44,749 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:40:44,749 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:42:06,214 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:06,214 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:42:06,215 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:06,216 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:42:41,161 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:41,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:42:41,163 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:41,163 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:42:42,365 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:42,365 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:42:42,367 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:42,367 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:42:56,038 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:56,038 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:42:56,040 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:42:56,040 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:43:06,838 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:43:06,839 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:43:06,841 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:43:06,841 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:43:48,853 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:43:48,853 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:43:48,855 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:43:48,855 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:47:07,838 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:47:07,839 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:47:07,840 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:47:07,841 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:48:25,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:48:25,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:48:25,497 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:48:25,497 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:50:28,355 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:28,355 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:50:28,360 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:28,360 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:50:35,428 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:hibernaterest:0.0.1-SNAPSHOT @ /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/pom.xml.
+2017-11-03 17:50:35,926 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:35,926 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:50:35,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:35,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:50:58,393 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:58,393 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:50:58,395 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:50:58,395 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:01,779 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:01,779 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:01,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:01,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:02,858 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:02,859 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:02,860 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:02,860 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:06,929 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:06,929 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:06,930 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:06,930 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:10,359 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:10,359 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:10,361 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:10,361 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:18,911 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:18,911 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:18,912 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:18,912 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:51:26,270 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:26,270 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:51:26,272 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:51:26,272 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:52:32,006 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:52:32,006 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:52:32,008 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:52:32,008 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:52:34,078 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:52:34,078 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:52:34,079 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:52:34,079 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:53:23,762 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:53:23,762 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:53:23,763 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:53:23,763 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 17:54:52,428 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:54:52,428 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 17:54:52,436 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 17:54:52,437 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:08:37,843 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:08:37,844 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:08:37,846 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:08:37,846 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:08:52,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:08:52,755 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:08:52,756 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:08:52,756 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:09:40,100 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:09:40,101 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:09:40,102 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:09:40,103 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:09:50,766 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:09:50,767 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:09:50,768 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:09:50,768 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:10:28,911 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:10:28,912 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:10:28,913 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:10:28,913 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:12:13,340 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:12:13,341 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:12:13,342 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:12:13,342 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:12:36,743 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:12:36,744 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:12:36,745 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:12:36,745 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:13:22,212 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:22,213 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:13:22,216 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:22,217 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:13:28,254 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:28,255 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:13:28,256 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:28,257 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:13:50,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:50,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:13:50,176 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:50,176 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:13:57,527 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:57,528 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:13:57,529 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:13:57,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:21:03,190 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:21:03,191 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:21:03,192 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:21:03,192 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:22:11,715 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:22:11,716 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:22:11,716 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:22:11,717 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:23:25,159 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:23:25,159 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:23:25,160 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:23:25,160 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:26:01,020 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:01,020 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:26:01,021 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:01,021 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:26:14,905 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:14,905 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:26:14,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:14,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:26:26,854 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:26,854 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:26:26,855 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:26,855 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:26:38,782 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:38,783 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:26:38,784 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:26:38,784 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:27:25,465 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:25,466 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:27:25,467 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:25,467 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:27:53,258 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:53,258 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:27:53,259 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:53,260 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:27:57,959 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:57,959 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:27:57,961 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:27:57,961 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:28:03,077 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:03,077 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:28:03,078 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:03,078 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:28:04,118 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:04,118 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:28:04,119 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:04,119 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:28:10,344 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:10,344 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:28:10,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:10,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:28:42,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:42,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:28:42,579 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:28:42,579 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:29:17,430 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:17,430 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:29:17,431 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:17,431 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:29:22,685 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:22,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:29:22,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:22,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:29:28,259 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:28,259 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:29:28,260 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:28,260 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:29:38,004 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:38,004 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:29:38,005 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:29:38,005 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:30:00,360 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:30:00,360 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:30:00,361 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:30:00,361 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:30:20,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:30:20,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:30:20,696 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:30:20,696 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:32:24,272 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:32:24,272 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:32:24,273 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:32:24,273 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:32:32,246 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:32:32,246 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:32:32,247 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:32:32,247 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:35:48,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:35:48,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:35:48,553 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:35:48,554 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:35:53,894 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:35:53,894 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:35:53,895 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:35:53,895 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:02,681 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:02,682 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:02,683 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:02,687 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:14,422 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:14,423 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:14,424 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:14,424 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:37,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:37,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:37,189 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:37,189 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:40,499 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:40,499 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:40,500 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:40,503 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:41,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:41,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:41,574 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:41,574 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:36:47,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:47,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:36:47,347 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:36:47,347 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
+2017-11-03 19:37:19,670 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:37:19,670 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/resources
+2017-11-03 19:37:19,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 19:37:19,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/test/resources
