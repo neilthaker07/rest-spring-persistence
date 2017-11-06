@@ -13,3 +13,7 @@ i
 9src/main/java/edu/sjsu/cmpe275/rest/PlayerRepository.java,a/b/ab62729f892508f479ae59ccf6bd71391c67c4da
 \
 ,src/main/java/edu/sjsu/cmpe275/rest/App.java,2/9/2934c273793b2771cb43b3364020eea3b3c7b9df
+i
+9src/main/java/edu/sjsu/cmpe275/rest/PlayerController.java,2/5/256090478efe2c2b1835946e886d47f2439e3f34
+f
+6src/main/java/edu/sjsu/cmpe275/rest/PlayerService.java,8/b/8b2f8ad03bbfbae1a8d3da17da181431df3fa8c0

@@ -2,13 +2,25 @@ package edu.sjsu.cmpe275.rest.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
 public class Player {
 
+	public Player() {
+
+	}
+
+	public Player(Long id, String firstname, String lastname, String email, String description, Sponsor sponsor) {
+		super();
+		this.id = id;
+		this.firstname = firstname;
+		this.lastname = lastname;
+		this.email = email;
+		this.description = description;
+		//this.sponsor = new Sponsor();
+	}
+	
 	@Id
 	@Column(name="ID")
 	private Long id;
@@ -25,22 +37,11 @@ public class Player {
 	@Column(name="DESCRIPTION")
 	private String description;
 	
+	@Column(name="SPONSOR")
+	private Sponsor sponsor;
  /*   private Address address;
-    private Sponsor sponsor;
     private List<Player> opponents;*/
 
-    public Player() {
-	}
-    
-   /* public Player(long id, String firstname, String lastname, String email, String description)
-    {
-    	this.id = id;
-    	this.firstname = firstname;
-    	this.lastname = lastname;
-    	this.email = email;
-    	this.description = description;
-    }*/
-    
     public Long getId() {
 		return id;
 	}
