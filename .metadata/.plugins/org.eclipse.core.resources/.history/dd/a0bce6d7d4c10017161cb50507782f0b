@@ -1,0 +1,20 @@
+package edu.sjsu.cmpe275.controllers;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import edu.sjsu.cmpe275.rest.Player;
+
+@RestController
+public class PlayerController {
+	
+	
+	
+	@RequestMapping("/player/{id}")
+	public Player getPlayer(@PathVariable long id)
+	{
+		return new Player(1, "abc", "bhj", "qqq", "qqqqqqqqqq");
+	}
+	
+}

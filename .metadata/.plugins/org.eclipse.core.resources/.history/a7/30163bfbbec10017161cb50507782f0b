@@ -1,0 +1,16 @@
+package edu.sjsu.cmpe275.rest;
+
+public class Player {
+
+	private long id;
+    private String firstname;
+    private String lastname;
+    private String email;
+    private String description;
+    private Address address;
+    private Sponsor sponsor;
+    private List<Player> opponents;
+
+
+	
+}

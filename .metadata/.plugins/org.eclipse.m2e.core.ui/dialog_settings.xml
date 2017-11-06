@@ -42,6 +42,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/neil/Neil_Work/MS_SJSU/275_EST/assignments/lab2/git_ws/rest-spring-persistence/hibernaterest/src/main/java/sample/hibernaterest/PlayerService.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -53,13 +54,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="sample.hibernaterest"/>
+			<item value="lab2.minigame"/>
 		</list>
 		<list key="groupId">
-			<item value="sample"/>
+			<item value="lab2"/>
 		</list>
 		<list key="artifactId">
-			<item value="hibernaterest"/>
+			<item value="minigame"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

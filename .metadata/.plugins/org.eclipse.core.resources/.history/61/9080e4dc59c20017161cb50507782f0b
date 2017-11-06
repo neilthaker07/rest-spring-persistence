@@ -1,0 +1,9 @@
+package edu.sjsu.cmpe275.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface IPlayerDao extends CrudRepository{
+
+	
+	
+}

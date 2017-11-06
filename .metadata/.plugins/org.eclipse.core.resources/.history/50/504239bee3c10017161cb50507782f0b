@@ -1,0 +1,17 @@
+package edu.sjsu.cmpe275.dao;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class PlayerDao {
+	
+	private EntityManagerFactory entityManagerFactory;
+	
+	public PlayerDao()
+	{
+		entityManagerFactory = Persistence.createEntityManagerFactory("player");
+	}
+	
+	
+
+}

@@ -1,0 +1,19 @@
+package edu.sjsu.cmpe275.rest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+import org.springframework.context.annotation.ComponentScan;
+
+@SpringBootApplication
+@ComponentScan(basePackages = {"edu.sjsu.cmpe275.rest","edu.sjsu.cmpe275.controllers","edu.sjsu.cmpe275.services","edu.sjsu.cmpe275.dao"})
+@EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
+public class App {
+	
+	public static void main(String args[])
+	{
+		SpringApplication.run(App.class, args);
+	}
+
+}

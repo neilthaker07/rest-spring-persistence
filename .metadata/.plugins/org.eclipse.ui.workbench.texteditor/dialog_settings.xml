@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="376" key="DIALOG_X_ORIGIN"/>
+		<item value="230" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="context" key="selection"/>
+		<item value="" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="context"/>
+			<item value="contextconfig"/>
+			<item value="PlayerRepository"/>
+			<item value="playerRepository"/>
+			<item value="PlayerDao"/>
+			<item value="playerDao"/>
+			<item value="data-jpa"/>
+			<item value="IPlayerDao"/>
+			<item value="iplayer"/>
 		</list>
 		<list key="replacehistory">
 		</list>
@@ -16,8 +27,8 @@
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="291" key="DIALOG_WIDTH"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="432" key="DIALOG_HEIGHT"/>
-		<item value="505" key="DIALOG_X_ORIGIN"/>
-		<item value="98" key="DIALOG_Y_ORIGIN"/>
+		<item value="404" key="DIALOG_HEIGHT"/>
+		<item value="866" key="DIALOG_X_ORIGIN"/>
+		<item value="223" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

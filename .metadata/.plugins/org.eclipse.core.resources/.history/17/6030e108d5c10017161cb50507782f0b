@@ -1,0 +1,11 @@
+package edu.sjsu.cmpe275.services;
+
+import edu.sjsu.cmpe275.rest.Player;
+
+public class PlayerService {
+
+	public Player getPlayer(long id) {
+		return new Player(1, "abc", "bhj", "qqq", "qqqqqqqqqq");;
+	}
+	
+}

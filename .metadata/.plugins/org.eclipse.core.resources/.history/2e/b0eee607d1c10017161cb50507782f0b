@@ -1,0 +1,19 @@
+package edu.sjsu.cmpe275.services;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import edu.sjsu.cmpe275.rest.Player;
+
+public class PlayerService {
+
+	private List<Player> players = new ArrayList<Player>();
+	
+	public List<Player> createPlayer() {
+		//players.add(player);
+		Player p1 = new Player(1, "zbc", "pqr", "email.com", "svfg");
+		players.add(p1);
+		return players;
+	}
+	
+}
