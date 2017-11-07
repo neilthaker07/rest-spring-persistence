@@ -2,19 +2,24 @@ package edu.sjsu.cmpe275.rest.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "PLAYER")
 public class Player {
 
 	public Player() {
 
 	}
 
-	public Player(Long id, String firstname, String lastname, String email, String description) {
+	public Player(String firstname, String lastname, String email, String description) {
 		super();
-		this.id = id;
 		this.firstname = firstname;
 		this.lastname = lastname;
 		this.email = email;
@@ -23,6 +28,7 @@ public class Player {
 	
 	@Id
 	@Column(name="ID")
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	
 	@Column(name="FIRSTNAME")
@@ -37,19 +43,12 @@ public class Player {
 	@Column(name="DESCRIPTION")
 	private String description;
 	
-	/*@Column(name="SPONSOR")
+	@OneToOne(fetch=FetchType.LAZY)
+    @JoinColumn(name = "SPONSOR_ID")
 	private Sponsor sponsor;
-	*/
+
  /*   private Address address;
     private List<Player> opponents;*/
-
-  /*  public Sponsor getSponsor() {
-		return sponsor;
-	}
-
-	public void setSponsor(Sponsor sponsor) {
-		this.sponsor = sponsor;
-	}*/
 
 	public Long getId() {
 		return id;
@@ -87,17 +86,20 @@ public class Player {
 	public void setAddress(Address address) {
 		this.address = address;
 	}
-	public Sponsor getSponsor() {
-		return sponsor;
-	}
-	public void setSponsor(Sponsor sponsor) {
-		this.sponsor = sponsor;
-	}
+
 	public List<Player> getOpponents() {
 		return opponents;
 	}
 	public void setOpponents(List<Player> opponents) {
 		this.opponents = opponents;
 	}*/
+
+	public Sponsor getSponsor() {
+		return sponsor;
+	}
+
+	public void setSponsor(Sponsor sponsor) {
+		this.sponsor = sponsor;
+	}
 	
 }
