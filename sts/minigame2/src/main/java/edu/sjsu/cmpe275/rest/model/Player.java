@@ -3,6 +3,7 @@ package edu.sjsu.cmpe275.rest.model;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.OneToOne;
 
 @Entity
 public class Player {
@@ -11,14 +12,13 @@ public class Player {
 
 	}
 
-	public Player(Long id, String firstname, String lastname, String email, String description, Sponsor sponsor) {
+	public Player(Long id, String firstname, String lastname, String email, String description) {
 		super();
 		this.id = id;
 		this.firstname = firstname;
 		this.lastname = lastname;
 		this.email = email;
 		this.description = description;
-		//this.sponsor = new Sponsor();
 	}
 	
 	@Id
@@ -37,12 +37,21 @@ public class Player {
 	@Column(name="DESCRIPTION")
 	private String description;
 	
-	@Column(name="SPONSOR")
+	/*@Column(name="SPONSOR")
 	private Sponsor sponsor;
+	*/
  /*   private Address address;
     private List<Player> opponents;*/
 
-    public Long getId() {
+  /*  public Sponsor getSponsor() {
+		return sponsor;
+	}
+
+	public void setSponsor(Sponsor sponsor) {
+		this.sponsor = sponsor;
+	}*/
+
+	public Long getId() {
 		return id;
 	}
 	public void setId(Long id) {

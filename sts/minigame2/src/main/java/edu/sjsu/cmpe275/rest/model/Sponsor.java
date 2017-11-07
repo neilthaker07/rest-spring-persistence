@@ -1,3 +1,4 @@
+
 package edu.sjsu.cmpe275.rest.model;
 
 public class Sponsor {
